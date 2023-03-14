@@ -1,0 +1,95 @@
+.name, .email{
+  display: block;
+  margin-bottom: 5px;
+  width: 150px;
+  height: 20px;
+}
+.text{
+  display: inline-block;
+  width: 200px;
+  vertical-align: middle;
+}
+.google{
+  display: block;
+  width: 200px;
+  margin-left: 10pc;
+  margin-bottom: 5px;
+}
+.search-bar{
+  width: 500px;
+  height: 40px;
+  padding-left: 20px;
+  border-radius: 30px;
+  border-style: none;
+  box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.25);
+  font-size: large;
+  margin-left: 10px;
+  margin-top: 5px;
+}
+.first-name, .last-name{
+  width: 10pc;
+  height:40px;
+  margin-top: 30px;
+  border-radius: 10px;
+  border-style: solid;
+  border-width: 1px;
+  font-size: 17px;
+  padding-left: 10px;
+}
+.email{
+  width: 21pc;
+  height:40px;
+  margin-top: 10px;
+  border-radius: 10px;
+  border-style: solid;
+  border-width: 1px;
+  font-size: 17px;
+  padding-left: 10px;
+}
+.sign-up{
+  width: 22pc;
+  height:50px;
+  margin-top: 10px;
+  border-radius: 10px;
+  border-style: none;
+  font-size: 20px;
+  padding-left: 10px;
+  font-weight: bold;
+  background-color: rgb(47, 127, 231);
+  color: white;
+  cursor: pointer;
+}
+.request{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 40px;
+  margin-bottom: 15px;
+}
+.pickup-textbox, .destination-textbox{
+  display: block;
+  margin-bottom: 7px;
+  height: 45px;
+  width: 400px;
+  background-color: rgb(234, 231, 231);
+  border-style: none;
+  font-size: large;
+  padding-left: 20px;
+}
+.request-button{
+  font-size: large;
+  background-color: black;
+  color: white;
+  padding: 15px 40px;
+  border-style: none;
+  cursor:pointer;
+  margin-top: 30px;
+}
+.schedule-button{
+  background-color: rgb(234, 231, 231);
+  color: black;
+  padding: 15px 40px;
+  border-style: none;
+  cursor:pointer;
+  margin-left: 10px;
+  font-size: large;
+  margin-top: 30px;
+}

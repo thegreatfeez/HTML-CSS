@@ -1,0 +1,109 @@
+.img1{
+  width: 200px;
+  border-radius: 10px;
+}
+.img2{
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  object-position: center;
+}
+.img3{
+  width: 200px;
+  border-radius: 100px;
+}
+.txt{
+  width: 200px;
+  height: 30px;
+  margin: 20px;
+  padding-left: 20px;
+  border-radius: 5px;
+  border-style: dashed;
+}
+.txt1{
+  width: 500px;
+  height: 40px;
+  margin: 20px;
+  padding-left: 20px;
+  border-radius: 30px;
+  border-style: none;
+  box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.25);
+  font-size: large;
+}
+.label{
+  font-family: Arial, Helvetica, sans-serif;
+  color: grey;
+  font-size: 20px;
+  margin-bottom: 0;
+}
+.email{
+  width: 400px;
+  height: 40px;
+  border-style: solid;
+  border-radius: 5px;
+  margin-top: 5px;
+  border-color: rgb(97, 96, 96);
+}
+.disclaimer{
+  font-family: Arial, Helvetica, sans-serif;
+  color: grey;
+  font-size: 16.5px;
+  margin-top: 25px;
+  margin-bottom: 0;
+}
+.button{
+  margin-top: 20px;
+  width: 400px;
+  height: 60px;
+  border-radius: 30px;
+  border-style: none;
+  background-color: rgb(10, 102, 194);
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  transition: opacity, 0.15s;
+}
+.button:hover{
+  cursor: pointer;
+  opacity: 0.9;
+}
+.button:active{
+  opacity: 0.6;
+}
+.twitter{
+margin-top: 40px;
+margin-bottom: 40px;
+}
+
+.baby{
+  width: 50px;
+  border-radius: 50px;
+  vertical-align: middle;
+}
+.input{
+  font-size: 18px;
+  border: none;
+  vertical-align: middle;
+  margin-left: 10px;
+  width: 300px;
+}
+.tweet{
+  font-family: Arial, Helvetica, sans-serif;
+  width: 120px;
+  height: 50px;
+  font-size: larger;
+  color: white;
+  background-color: rgb(29, 155, 240);
+  border-radius: 30px;
+  border-style: none;
+  vertical-align: middle;
+  margin-left: 10px;
+  cursor: pointer;
+  transition: opacity, 0.15s;
+}
+.tweet:hover{
+  opacity: 0.8;
+}
+.tweet:active{
+  opacity: 0.6;
+}

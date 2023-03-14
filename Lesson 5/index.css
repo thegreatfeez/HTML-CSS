@@ -1,0 +1,121 @@
+.verdana{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.html{
+  font-weight: bolder;
+  font-size: 20px;
+  margin-bottom: 1px;
+}
+.beginer{
+  font-size: 20px;
+  color: grey;
+  margin-top: 5px;
+}
+.in{
+  width: 300px;
+}
+button{
+  background-color: rgb(10, 172, 10);
+  color: white;
+  border-style: none;
+  padding: 10px;
+  width: 150px;
+  border-radius: 10px;
+  font-size: large;
+  transition: opacity 0.15;
+}
+button:hover{
+  opacity: 0.8;
+  cursor: pointer;
+}
+button:active{
+  width: 100px;
+  font-size: small;
+}
+.Aerial , .stocks , .tweets{
+  font-family: Arial, Helvetica, sans-serif;
+}
+.big{
+  font-weight: bolder;
+  font-size: 40px;
+  margin-bottom: 1px;
+}
+.sales{
+  font-size: 25px;
+  margin-top: 5px;
+  color: red;
+}
+.Arial{
+font-family: Arial, Helvetica, sans-serif;
+text-align: center;
+}
+.shop{
+  font-weight: bolder;
+  font-size: 40px;
+  width: 600px;
+  margin-bottom: 0;
+}
+.see{
+  font-size: 27px;
+}
+.learn{
+  font-size: 22px;
+  color: rgb(58, 108, 199);
+  transition: text-decoration 0.15s;
+}
+.learn:hover{
+  text-decoration: underline;
+  cursor: pointer;
+}
+.learn:active{
+  opacity: 0.6;
+}
+.num{
+  font-size: 50px;
+  margin-bottom: 0px;
+}
+.USD{
+  margin-left: 17px;
+  font-size: 30px;
+  color: grey;
+}
+.today{
+  margin-top: 5px;
+  color: rgb(24, 128, 56);
+  font-size: 20px;
+  margin-bottom: 0;
+}
+.hours{
+color: grey;
+margin-top: 10px;
+font-size: 20px;
+}
+.num2{
+  color: red;
+  margin-left: 5px;
+}
+.tweets{
+  font-size: 27px;
+}
+.tweet-header{
+  margin-bottom: 0;
+}
+.tweet-author{
+  font-weight: bold;
+}
+.tweet-info{
+  color: grey;
+}
+.tweet{
+  margin-top: 10px;
+  width: 900px;
+}
+.twitter-handle{
+  color: rgb(29, 155, 240);
+}
+.twitter-handle:hover , .tweet-info:hover{
+  cursor: pointer;
+}
+.twitter-handle:hover{
+  text-decoration: underline;
+}
